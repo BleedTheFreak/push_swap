@@ -1,4 +1,6 @@
 # push_swap
+The push swap project all about sorting stack using the action below.
+
 ### Actions :
 
 <ul>
@@ -29,3 +31,4 @@ sa : </br>
 stackA : [2] [3] [1] </br>
 rra : </br>
 stackA : [1] [2] [3] </br>
+<li> <p> Final mark : </p> <img src="https://github.com/BleedTheFreak/push_swap/blob/master/final_mark.png" alt="drawing" width="150" hight="150"/></li>
